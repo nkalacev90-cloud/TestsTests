@@ -1,0 +1,71 @@
+{
+  "squadName": "Super hero squad",
+  "homeTown": "Metro City",
+  "formed": 2016,
+  "secretBase": "Super tower",
+  "active": true,
+  "members": [
+    {
+      "name": "Spider-Man",
+      "age": 17,
+      "secretIdentity": "Peter Parker",
+      "powers": [
+        "Web-slinging",
+        "Spider-sense",
+        "Super strength"
+      ]
+    },
+    {
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name": "Iron Man",
+      "age": 48,
+      "secretIdentity": "Tony Stark",
+      "powers": [
+        "Powered armor",
+        "Flight",
+        "Genius intellect"
+      ]
+    },
+    {
+      "name": "Thor",
+      "age": 1500,
+      "secretIdentity": "Thor Odinson",
+      "powers": [
+        "Thunder",
+        "Super strength",
+        "Immortality"
+      ]
+    },
+    {
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "secretIdentity": "Unknown",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
